@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Nika Kirkitadze! 👋
 
-<!--
-**nikakirkitadze/nikakirkitadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **iOS Engineer** with over a decade of experience in developing robust and user-friendly applications.
 
-Here are some ideas to get you started:
+🌍 **Location**: Tbilisi, Georgia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages**: Swift, Objective-C
+- **Frameworks**: SwiftUI, UIKit, Combine
+- **Tools**: Xcode, Git, CocoaPods
+- **Other**: Core Data, Core Animation, RESTful APIs
+
+## 🌟 Highlights
+
+- **Lead iOS Developer** at TBC Bank
+- **Mentor & Trainer**: Guided over 400 students in iOS development
+- **Open Source Contributor**: Actively contributing to the iOS community
+
+## 📈 GitHub Stats
+
+![Nika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikakirkitadze&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [Nika Kirkitadze](https://ge.linkedin.com/in/nikakirkitadze)
+- **Twitter**: [@NikaKirkitadze](https://twitter.com/NikaKirkitadze)
