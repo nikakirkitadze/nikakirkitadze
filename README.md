@@ -14,11 +14,11 @@
   <img src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,py,fastapi,postgres,ts,react,nextjs,angular,tailwind,prisma,firebase,vercel,unity,cs,git&perline=9" alt="Swift, Kotlin, Flutter, Dart, Python, FastAPI, PostgreSQL, TypeScript, React, Next.js, Angular, Tailwind CSS, Prisma, Firebase, Vercel, Unity, C#, Git">
 </p>
 
+- **Mobile**: Swift, SwiftUI, UIKit, Combine, TCA, Objective-C, Flutter, Dart, BLoC, Kotlin
 - **Backend**: Python, FastAPI, SQLAlchemy, PostgreSQL, RESTful APIs, WebSocket
 - **Web**: TypeScript, React, Next.js, Angular, Tailwind CSS, Prisma
-- **Mobile**: Swift, SwiftUI, UIKit, Combine, TCA, Objective-C, Flutter, Dart, BLoC, Kotlin
 - **Games**: Unity, C#
-- **Cloud & Tools**: Firebase, Vercel, Git, Xcode, CocoaPods
+- **Cloud & Tools**: Firebase, Vercel, Git, Xcode, VS Code, SPM, CocoaPods
 
 ## 🏅 Certifications
 
